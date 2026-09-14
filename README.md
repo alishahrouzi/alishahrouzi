@@ -36,4 +36,4 @@ My goal is to become a stronger **AI/Software Engineer** by building production-
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ali-shahrouzi-aa46972b0)
-- [GitHub](https://github.com/alishahrouzi)
+- **Email:** shahrouzi_ali@yahoo.com
