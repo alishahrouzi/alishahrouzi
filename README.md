@@ -6,26 +6,32 @@ I build practical software systems, combining data-driven problem solving with b
 
 ## 📊 Weekly Development Highlights
 
-### 13–19 November 2026
+My current engineering focus is building reliable backend workflows, strengthening authentication and automated testing, and advancing applied credit-risk analysis.
 
-**Main focus: ERP backend reliability and authentication, alongside credit-risk project development.**
-
-1. **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** — Main engineering focus this week. Delivered payment-workflow regression coverage and improvements around Store authentication and session reliability, with targeted test evidence.
-2. **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** — Updated the final credit-risk analysis and executive report, including model and calibration work.
-
-*Two repositories had verifiable activity in this reporting period; no inactive or unverified repository is presented as a weekly highlight.*
+- **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** — Developing a modular ERP platform, with emphasis on dependable business workflows, backend architecture, authentication, and quality assurance.
+- **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** — Working on credit-risk scoring, model development, calibration, and analytical reporting.
 
 ## 🧠 Technical Interests
 
-The technologies below are based on implementation evidence in the projects reviewed for this profile update:
-
-- **Languages & Data:** Python, SQL
+- **Programming Languages:** Python, SQL, JavaScript, TypeScript
 - **Backend & APIs:** FastAPI, Django, REST APIs
-- **Data & Storage:** PostgreSQL, Redis
-- **AI / Machine Learning:** Credit-risk modeling, model evaluation, calibration, Jupyter Notebooks
-- **Engineering & Delivery:** Docker, automated testing, Git
+- **Databases & Data Systems:** PostgreSQL, Redis, MongoDB
+- **Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy, model evaluation, credit-risk modeling
+- **Computer Vision:** Image recognition, visual search, image embeddings
+- **Frontend:** Vue.js, Vite
+- **Engineering & Tools:** Docker, Git, automated testing, Jupyter
 
-*This section is updated progressively as technology usage is verified in project code, dependency manifests, and configuration files.*
+## 🧭 Project Portfolio & Long-Term Interests
+
+My work brings together software engineering, intelligent data applications, and practical business platforms.
+
+- **Business Platforms & ERP Systems:** Designing modular systems that connect business operations, commerce, order workflows, and service management, with an emphasis on maintainability and reliable backend architecture.
+- **Backend Engineering:** Building APIs and service-oriented components, working with authentication, data persistence, integration, automated testing, and deployment workflows.
+- **Machine Learning & FinTech:** Exploring applied machine learning for credit-risk scoring, predictive analysis, model evaluation, and calibration, with a focus on turning analytical results into useful decision-support tools.
+- **Computer Vision & Visual Search:** Developing image-recognition and visual-retrieval approaches, including image representations, similarity search, and evaluation for product-oriented use cases.
+- **Automation & Digital Products:** Building connected web, backend, and bot-based experiences for ordering, payments, support, and operational workflows.
+
+Selected work includes **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)**, **[Gold Image Recognition Engine](https://github.com/alishahrouzi/Gold-image-recognition-engine)**, **[CoffeNet Platform & Bot](https://github.com/alishahrouzi/CoffeNet-Platform---Bot)**, **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)**, and **MIR**.
 
 ## 🎯 What I'm Building Toward
 
@@ -33,14 +39,10 @@ My goal is to become a stronger **AI/Software Engineer** by building production-
 
 ## 📌 Selected Projects
 
-*Ranked by verified, attributable commits during November 2026 (month-to-date through 19 November). Merge and duplicate PR-branch commits are not counted separately.*
-
-| Rank | Project | Verified Commits | Area |
-|---:|---|---:|---|
-| 1 | **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** | 17 | Backend / ERP / System Engineering |
-| 2 | **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** | 2 | FinTech / Credit Risk / Machine Learning |
-
-*Only two repositories had verified attributable commits in the reviewed month-to-date data. This ranking reflects commit activity, not a quality or impact score.*
+| Project | Area |
+|---|---|
+| **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** | Backend / ERP / System Engineering |
+| **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** | FinTech / Credit Risk / Machine Learning |
 
 ## 📫 Connect
 
