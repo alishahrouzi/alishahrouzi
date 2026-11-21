@@ -2,34 +2,30 @@
 
 **Computer Science Graduate | AI & Machine Learning Enthusiast | Python Developer**
 
-I build practical software systems with a current focus on **Machine Learning, Computer Vision, backend development, and real-world product engineering**.
-
-## 🚀 Current Focus
-
-My project portfolio includes:
-
-- **[Gold Image Recognition Engine](https://github.com/alishahrouzi/Gold-image-recognition-engine)** — A visual search and product retrieval project for jewelry images, focused on image embeddings, similarity search, evaluation, and modular architecture.
-- **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** — A modular ERP platform for factory management, with backend, e-commerce, and public website components.
-- **[CoffeNet Platform & Bot](https://github.com/alishahrouzi/CoffeNet-Platform---Bot)** — A service, ordering, payment, support, and management platform with Telegram bot and web/backend components.
+I build practical software systems, combining data-driven problem solving with backend engineering and real-world product development.
 
 ## 📊 Weekly Development Highlights
 
 ### 13–19 November 2026
 
-This week's verified GitHub activity focused on backend reliability, automated testing, and credit-risk analysis. Highlights below are ranked by demonstrated delivery and validation evidence, not commit count alone.
+**Main focus: ERP backend reliability and authentication, alongside credit-risk project development.**
 
-1. **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** — Main engineering focus. Merged improvements to payment workflow regression coverage and Store authentication/session reliability, supported by targeted automated tests.
-2. **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** — Updated the final credit-risk project analysis and its executive report, including model and calibration work.
+1. **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** — Main engineering focus this week. Delivered payment-workflow regression coverage and improvements around Store authentication and session reliability, with targeted test evidence.
+2. **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** — Updated the final credit-risk analysis and executive report, including model and calibration work.
 
-*Only two repositories had verifiable activity during this reporting period; no third active repository is listed rather than presenting an inactive project as a weekly highlight.*
+*Two repositories had verifiable activity in this reporting period; no inactive or unverified repository is presented as a weekly highlight.*
 
 ## 🧠 Technical Interests
 
-- **AI / Machine Learning:** Computer Vision, image retrieval, embeddings, model evaluation
-- **Backend:** Python, FastAPI, Django, REST APIs
-- **Databases:** MongoDB, SQL / relational databases
-- **Frontend:** Vue.js / Vite
-- **Engineering:** Git, modular architecture, testing, Docker, API integration
+The technologies below are based on implementation evidence in the projects reviewed for this profile update:
+
+- **Languages & Data:** Python, SQL
+- **Backend & APIs:** FastAPI, Django, REST APIs
+- **Data & Storage:** PostgreSQL, Redis
+- **AI / Machine Learning:** Credit-risk modeling, model evaluation, calibration, Jupyter Notebooks
+- **Engineering & Delivery:** Docker, automated testing, Git
+
+*This section is updated progressively as technology usage is verified in project code, dependency manifests, and configuration files.*
 
 ## 🎯 What I'm Building Toward
 
@@ -37,12 +33,14 @@ My goal is to become a stronger **AI/Software Engineer** by building production-
 
 ## 📌 Selected Projects
 
-| Project | Area | Status |
-|---|---|---|
-| **Gold Image Recognition Engine** | Computer Vision / Visual Search | Portfolio Project |
-| **ERP Factory** | Backend / ERP / System Design | Active Development |
-| **CoffeNet Platform** | Backend / Automation / Business Platform | Portfolio Project |
-| **MIR** | Machine Learning / Image Recognition | Previous Project |
+*Ranked by verified, attributable commits during November 2026 (month-to-date through 19 November). Merge and duplicate PR-branch commits are not counted separately.*
+
+| Rank | Project | Verified Commits | Area |
+|---:|---|---:|---|
+| 1 | **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** | 17 | Backend / ERP / System Engineering |
+| 2 | **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** | 2 | FinTech / Credit Risk / Machine Learning |
+
+*Only two repositories had verified attributable commits in the reviewed month-to-date data. This ranking reflects commit activity, not a quality or impact score.*
 
 ## 📫 Connect
 
