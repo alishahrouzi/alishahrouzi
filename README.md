@@ -6,20 +6,19 @@ I build practical software systems, combining data-driven problem solving with b
 
 ## 📊 Weekly Development Highlights
 
-My current engineering focus is building reliable backend workflows, strengthening authentication and automated testing, and advancing applied credit-risk analysis.
+My engineering focus is strengthening access boundaries in modular business platforms and delivering cohesive, responsive web experiences.
 
-- **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** — Developing a modular ERP platform, with emphasis on dependable business workflows, backend architecture, authentication, and quality assurance.
-- **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)** — Working on credit-risk scoring, model development, calibration, and analytical reporting.
+- **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)** — Implemented and merged domain-scoped Store/Order authorization and cross-customer ownership protections, supported by focused contract and HTTP-oriented tests. Also delivered the approved responsive design across the public main site and Store frontend, with role-aware panel routing and safer client-side authentication handling.
 
 ## 🧠 Technical Interests
 
-- **Programming Languages:** Python, SQL, JavaScript, TypeScript
-- **Backend & APIs:** FastAPI, Django, REST APIs
-- **Databases & Data Systems:** PostgreSQL, Redis, MongoDB
-- **Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy, model evaluation, credit-risk modeling
-- **Computer Vision:** Image recognition, visual search, image embeddings
-- **Frontend:** Vue.js, Vite
-- **Engineering & Tools:** Docker, Git, automated testing, Jupyter
+- **Programming Languages:** Python, JavaScript, TypeScript, SQL
+- **Backend & APIs:** FastAPI, Django, SQLAlchemy, Alembic, REST APIs
+- **Databases & Data Systems:** PostgreSQL, MongoDB, Redis
+- **Machine Learning & Data Science:** NumPy, Pandas, Scikit-learn, Matplotlib, PyTorch, model evaluation, credit-risk modeling
+- **Computer Vision & Retrieval:** OpenCV, image recognition, image embeddings, visual search
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Engineering & Tools:** Docker, Docker Compose, Git, automated testing, Jupyter
 
 ## 🧭 Project Portfolio & Long-Term Interests
 
@@ -31,7 +30,7 @@ My work brings together software engineering, intelligent data applications, and
 - **Computer Vision & Visual Search:** Developing image-recognition and visual-retrieval approaches, including image representations, similarity search, and evaluation for product-oriented use cases.
 - **Automation & Digital Products:** Building connected web, backend, and bot-based experiences for ordering, payments, support, and operational workflows.
 
-Selected work includes **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)**, **[Gold Image Recognition Engine](https://github.com/alishahrouzi/Gold-image-recognition-engine)**, **[CoffeNet Platform & Bot](https://github.com/alishahrouzi/CoffeNet-Platform---Bot)**, **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)**, and **MIR**.
+Selected work includes **[ERP Factory](https://github.com/alishahrouzi/ERP-Factory)**, **[Gold Image Recognition Engine](https://github.com/alishahrouzi/Gold-image-recognition-engine)**, **[CoffeNet Platform & Bot](https://github.com/alishahrouzi/CoffeNet-Platform---Bot)**, **[MasterClass FinTech](https://github.com/alishahrouzi/MasterClass-FinTech-01)**, and **[MIR](https://github.com/alishahrouzi/MIR)**.
 
 ## 🎯 What I'm Building Toward
 
